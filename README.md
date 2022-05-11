@@ -3,7 +3,7 @@
 
 # Origins:
 Kirby: 
-Im preety sure you have walked through the wrong mirror, your body is too fragile to survive in this uknown world.
+Im pretty sure you have walked through the wrong mirror, your body is too fragile to survive in this uknown world.
 - Impact: 2
 
 Powers:
