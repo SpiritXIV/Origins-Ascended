@@ -22,6 +22,8 @@ You can survive fall damage, and levitate for a short peorid of time.
 - The Star Rod
 Swords do 2 more attack damage.
 
+___________________________
+
 Mario: 
 Wait, this is not supposed to be in Minecraft?
 A legend that has gone on countless missions and has defeted so many bosses, while at the same.
@@ -48,6 +50,7 @@ You are 60% the size of a normal player.
 
 - Heavy Body
 You swim slower in water.
+___________________________
 
 MicroWave: 
 You like to violently shake the water in side of mainly food.
@@ -63,11 +66,19 @@ You can smelt any food item in your inventory.
 - Tech Body
 When you die, you will explode. You will also expload if you are wearing iron armor.
 
+- Self Destruct
+You can choose when you want to explode
+
 - Fire Protection
 You are immune to fire.
 
+- Heart of Metal
+You health is decresses to 6 hearts.
+
 - Electro Waves
 If someone attacks you, they or the mob will be struck with lightning.
+
+___________________________
 
 Princess Peach: 
 A princess that has been saved by Mario many times.But ended up in yet another odd game, that they can defend them selves.
@@ -82,6 +93,8 @@ Your dress allow you to float and jump high. But you swim slower in water.
 
 - Vegetarian
 You can only eat fruit and vetables, no meat. Apples, give you more saturation, and food points.
+
+___________________________
 
 Pebble: 
 A very small rock
@@ -99,6 +112,8 @@ Because you are as hard as a rock you have resistance two, and strangth one.
 
 - Tiny Rock
 You are 20% the size of the normal player.
+
+___________________________
 
 Pikachu: 
 The fairly large rodent that likes to shock people.
@@ -123,6 +138,8 @@ You are 70% the height of a normal player.
 - Electric Body
 You will start to take damage over time, if you are in water.
 
+___________________________
+
 Toaster: 
 Your are a square like box that can get really hot
 - Impact: 3
@@ -142,6 +159,8 @@ You can smelt any item in your inventory.
 
 - Electric Body
 You will instaintly expload if you come incontact with any kind of water.
+
+___________________________
 
 Yoshi: 
 A dino like animal that can lay eggs, throw them , and protect it self useing an egg.
