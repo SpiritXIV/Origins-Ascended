@@ -2,6 +2,28 @@
 [DEV] An addition to the original 'Origins' Mod but this adds aton more, but none are copied from other popular mods.
 This project is a community project, meaning I will be taking suggestions, and if you want to see if they make it into the mod, go see this google doc: https://docs.google.com/document/d/1w7D07Yxc2OuAx038-tDnq2M2sNLNiQM-wvbPFjZwNlU/edit?usp=sharing
 # Origins:
+Evolved:
+A colony of microorganisms, you are capable of augmenting yourself in many ways to stay alive
+- Impact: 3
+
+Powers:
+- Cell Body
+You randomly shift slightly green when walking due to you practically coming apart, and you are 30% the size of a normal player.
+
+- Memory Wipe
+When you die you lose all you guaranteed effects and have to build them up again.
+
+- Adaptable
+Every Day/Night cycle you remain alive gives you 1 potion effect that stacks.
+
+- Energy Storage
+You don't sleep, but you also don't feel insomnia nor count towards skipping the day slightly.
+
+- Photosynthetic
+You will burn in really hot places, but you can heal yourself faster while in the sun.
+
+___________________________
+
 Kirby: 
 Im pretty sure you have walked through the wrong mirror, your body is too fragile to survive in this unknown world.
 - Impact: 2
@@ -64,7 +86,7 @@ You can beep when you want to.
 You can smelt any food item in your inventory.
 
 - Tech Body
-When you die, you will explode. You will also expload if you are wearing iron armor.
+You can self destruct if you sneak. You will also expload if you are wearing iron armor.
 
 - Self Destruct
 You can choose when you want to explode
@@ -77,6 +99,30 @@ You health is decresses to 6 hearts.
 
 - Electro Waves
 If someone attacks you, they or the mob will be struck with lightning.
+
+___________________________
+Mirror: 
+You are the physical traits of other players, but you can never feel like yourself ever again unless…
+- Impact: 3
+
+Powers:
+- Copy
+Coming Soon
+
+- Broken Glass
+Better with a sword, If you hit an unarmored guy in the back with a sword it takes more dmage 
+
+- Broken Soul
+You can only fix yourself by dying.
+
+- Carnivore
+You can only eat meat.
+
+- Insomnia
+You feel too uncomfortable enough to sleep. 
+
+- Transparent
+You can become invisible for a while.
 
 ___________________________
 
@@ -149,7 +195,7 @@ Power:
 If someone attacks you, they or the mob will be set on fire. Its the same if you attack someone else.
 
 - Tech Body
-When you die, you will explode.
+You can self destruct your self.
 
 - Cubic Body
 You are 65% the size of a normal player.
