@@ -2,6 +2,27 @@
 [DEV] An addition to the original 'Origins' Mod but this adds aton more, but none are copied from other popular mods.
 This project is a community project, meaning I will be taking suggestions, and if you want to see if they make it into the mod, go see this google doc: https://docs.google.com/document/d/1w7D07Yxc2OuAx038-tDnq2M2sNLNiQM-wvbPFjZwNlU/edit?usp=sharing
 # Origins:
+Deathclaw:
+Deathclaws are creatures found in the Commonwealth, on the Island and in-- wait this is not the right game...
+- Impact: 3
+
+Powers:
+- Monster Heart:
+You have a extra row of heath.
+
+- Sensitive Eyes:
+You can not see when in really bright places.
+
+- Carnivore:
+You can only eat meat.
+
+- Monster Body:
+You are 30% taller that the average player.
+
+- Strong Arms:
+You do twice the amount of damage your weapon has.
+
+___________________________
 Evolved:
 A colony of microorganisms, you are capable of augmenting yourself in many ways to stay alive
 - Impact: 3
@@ -43,6 +64,24 @@ You can survive fall damage, and levitate for a short peorid of time.
 
 - The Star Rod:
 Swords do 2 more attack damage.
+
+___________________________
+Maid:
+You are the servant of a master you have not found yet, so you are trying to do your best to find that master.
+- Impact:2 
+
+Powers:
+- Maiden Wear
+You swim slower in water because of your dress.
+
+- High Saturation
+You wont lose hunger as fast.
+
+- Tall Body
+You are 20% taller than the average player.
+
+- Maiden Body
+You are stronger than the average player, and you run twice as fast.
 
 ___________________________
 
