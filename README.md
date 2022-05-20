@@ -7,19 +7,19 @@ A colony of microorganisms, you are capable of augmenting yourself in many ways 
 - Impact: 3
 
 Powers:
-- Cell Body
+- Cell Body:
 You randomly shift slightly green when walking due to you practically coming apart, and you are 30% the size of a normal player.
 
-- Memory Wipe
+- Memory Wipe:
 When you die you lose all you guaranteed effects and have to build them up again.
 
-- Adaptable
+- Adaptable:
 Every Day/Night cycle you remain alive gives you 1 potion effect that stacks.
 
-- Energy Storage
+- Energy Storage:
 You don't sleep, but you also don't feel insomnia nor count towards skipping the day slightly.
 
-- Photosynthetic
+- Photosynthetic:
 You will burn in really hot places, but you can heal yourself faster while in the sun.
 
 ___________________________
@@ -29,19 +29,19 @@ Im pretty sure you have walked through the wrong mirror, your body is too fragil
 - Impact: 2
 
 Powers:
-- Fragile Body
+- Fragile Body:
 Because how light and thin your body needs to be , you take twice as much base damage. You are also limited to 5 hearts.
 
-- Bubble Body
+- Bubble Body:
 If you body is build light enough for ou to float, then you are light enough to flough on water.
 
-- Lava Burn
+- Lava Burn:
 You will burn intaintly if you touch lava or fire.
 
-- Fluffy Body
+- Fluffy Body:
 You can survive fall damage, and levitate for a short peorid of time.
 
-- The Star Rod
+- The Star Rod:
 Swords do 2 more attack damage.
 
 ___________________________
@@ -52,25 +52,25 @@ A legend that has gone on countless missions and has defeted so many bosses, whi
 - Impact: 2
 
 Powers:
-- High Jump 
+- High Jump :
 You naturally jump really high.
 
-- Insomnia
+- Insomnia:
 You can not sleep, how do you have so much energy?
 
-- Lava Burn
+- Lava Burn:
 You will burn instantly if you touch lava or fire.
 
-- Super Mushroom
+- Super Mushroom:
 Mushroom stew give you 3 more food point that usual.
 
-- Strong Calfs 
+- Strong Calfs:
 You can survive fall damage, and you can jump higher.
 
-- Small Body
+- Small Body:
 You are 60% the size of a normal player.
 
-- Heavy Body
+- Heavy Body:
 You swim slower in water.
 ___________________________
 
@@ -79,25 +79,25 @@ You like to violently shake the water in side of mainly food.
 - Impact: 3
 
 Powers:
-- Buttons Sounds
+- Buttons Sounds:
 You can beep when you want to.
 
-- Hot Body
+- Hot Body:
 You can smelt any food item in your inventory.
 
-- Tech Body
+- Tech Body:
 You can self destruct if you sneak. You will also expload if you are wearing iron armor.
 
-- Self Destruct
+- Self Destruct:
 You can choose when you want to explode
 
-- Fire Protection
+- Fire Protection:
 You are immune to fire.
 
-- Heart of Metal
+- Heart of Metal:
 You health is decresses to 6 hearts.
 
-- Electro Waves
+- Electro Waves:
 If someone attacks you, they or the mob will be struck with lightning.
 
 ___________________________
@@ -106,22 +106,22 @@ You are the physical traits of other players, but you can never feel like yourse
 - Impact: 3
 
 Powers:
-- Copy
+- Copy:
 Coming Soon
 
-- Broken Glass
+- Broken Glass:
 Better with a sword, If you hit an unarmored guy in the back with a sword it takes more dmage 
 
-- Broken Soul
+- Broken Soul:
 You can only fix yourself by dying.
 
-- Carnivore
+- Carnivore:
 You can only eat meat.
 
-- Insomnia
+- Insomnia:
 You feel too uncomfortable enough to sleep. 
 
-- Transparent
+- Transparent:
 You can become invisible for a while.
 
 ___________________________
@@ -131,13 +131,13 @@ A princess that has been saved by Mario many times.But ended up in yet another o
 - Impact: 2
 
 Powers:
-- Heart of Fruit
+- Heart of Fruit:
 You health is decresses to 8 hearts.
 
-- Fluffy Dress
+- Fluffy Dress:
 Your dress allow you to float and jump high. But you swim slower in water.
 
-- Vegetarian
+- Vegetarian:
 You can only eat fruit and vetables, no meat. Apples, give you more saturation, and food points.
 
 ___________________________
@@ -147,16 +147,16 @@ A very small rock
 - Impact: 3
 
 Powers:
-- Rocky Shell
+- Rocky Shell:
 You can protect you self very well.
 
-- Tiny Heart
+- Tiny Heart:
 Because of your size you are limited to two hearts.
 
-- Hard Rock
+- Hard Rock:
 Because you are as hard as a rock you have resistance two, and strangth one.
 
-- Tiny Rock
+- Tiny Rock:
 You are 20% the size of the normal player.
 
 ___________________________
@@ -166,22 +166,22 @@ The fairly large rodent that likes to shock people.
 - Impact: 2
 
 Powers:
-- Sparky Paws
+- Sparky Paws:
 When you hit someone they will be shocked.
 
-- Rodent Diet
+- Rodent Diet:
 You dont like the tast of meat. 
 
-- Heart of Rat
+- Heart of Rat:
 You health is decresses to 6 hearts.
 
-- Power Surge
+- Power Surge:
 You can strike you self with lighning to damage near by enemies.
 
-- Large Rodent
+- Large Rodent:
 You are 70% the height of a normal player.
 
-- Electric Body
+- Electric Body:
 You will start to take damage over time, if you are in water.
 
 ___________________________
@@ -191,19 +191,19 @@ Your are a square like box that can get really hot
 - Impact: 3
 
 Power:
-- Burning Hands
+- Burning Hands:
 If someone attacks you, they or the mob will be set on fire. Its the same if you attack someone else.
 
-- Tech Body
+- Tech Body:
 You can self destruct your self.
 
-- Cubic Body
+- Cubic Body:
 You are 65% the size of a normal player.
 
-- Hot Body
+- Hot Body:
 You can smelt any item in your inventory.
 
-- Electric Body
+- Electric Body:
 You will instaintly expload if you come incontact with any kind of water.
 
 ___________________________
@@ -213,21 +213,21 @@ A dino like animal that can lay eggs, throw them , and protect it self useing an
 - Impact: 2
 
 Power:
-- Soft Skin
+- Soft Skin:
 Arrows do twice as much damage.
 
-- Protective Shell
+- Protective Shell:
 Your hard sheel can protect you from damage, 
 Gives you resistance 5, Blindness, and Slowness.
 
-- Iron Egg
+- Iron Egg:
 Eggs to 4 more damage.
 
-- Panic
+- Panic:
 When you get hit, you panic, giving you speed 1.
 
-- Egg Like Body
+- Egg Like Body:
 You are 53% the size of a normal player.
 
-- Heavy Body
+- Heavy Body:
 Your shell makes you harder to swim.
