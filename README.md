@@ -71,16 +71,16 @@ You are the servant of a master you have not found yet, so you are trying to do 
 - Impact:2 
 
 Powers:
-- Maiden Wear
+- Maiden Wear:
 You swim slower in water because of your dress.
 
-- High Saturation
+- High Saturation:
 You wont lose hunger as fast.
 
-- Tall Body
+- Tall Body:
 You are 20% taller than the average player.
 
-- Maiden Body
+- Maiden Body:
 You are stronger than the average player, and you run twice as fast.
 
 ___________________________
