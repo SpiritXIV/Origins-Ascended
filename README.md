@@ -2,6 +2,44 @@
 [DEV] An addition to the original 'Origins' Mod but this adds aton more, but none are copied from other popular mods.
 This project is a community project, meaning I will be taking suggestions, and if you want to see if they make it into the mod, go see this google doc: https://docs.google.com/document/d/1w7D07Yxc2OuAx038-tDnq2M2sNLNiQM-wvbPFjZwNlU/edit?usp=sharing
 # Origins:
+Ball of Fire:
+You are the exact opposite of the Cup of Water origin.
+- Impact: 3
+
+Powers:
+- Fire Skin:
+Because you are made of magma, you can not burn.
+
+- Very Tiny Flaming Heart:
+Because your body is very small. You have a very small heart, lowering you down to 4 hearts.
+
+- FIre Body:
+You are much stronger if you are in very hot places, and you will take damage when in cold places.
+
+- Ball Body
+You are 20% the size of a normal player.
+
+___________________________
+
+Cup of Water:
+This is the most difficult origin out there. Only people who are genuinely really good at the game can at least survive. If you choose this one you are willing to accept the fact that this origin may make you hate this game.
+- Impact: 3
+
+Powers:
+- Very Tiny Heart
+Because your body is very small. You have a very small heart, lowering you down to 3 hearts.
+
+- Water Filled:
+You are filled with water, so if you go into places that are very hot, that water will start to evaporate, and if you are in very cold areas you will start to freeze.
+
+- Cup Body:
+You are 20% the size of a normal player.
+
+- Water Lungs:
+Because your insides are water, you can not drown.
+
+___________________________
+
 Deathclaw:
 Deathclaws are creatures found in the Commonwealth, on the Island and in-- wait this is not the right game...
 - Impact: 3
@@ -23,6 +61,7 @@ You are 30% taller that the average player.
 You do twice the amount of damage your weapon has.
 
 ___________________________
+
 Evolved:
 A colony of microorganisms, you are capable of augmenting yourself in many ways to stay alive
 - Impact: 3
@@ -42,6 +81,31 @@ You don't sleep, but you also don't feel insomnia nor count towards skipping the
 
 - Photosynthetic:
 You will burn in really hot places, but you can heal yourself faster while in the sun.
+
+___________________________
+
+Giant Bat:
+A giant creature that probably came from the jungle. 
+- Impact: 2
+
+Powers:
+- Echolocation:
+You can see mobs using echolocation.
+
+- Bat Wings:
+You can not fly because of your heavy body, but you can glide.
+
+- Bat Heart:
+Because you are a large bat you have 3 more hearts.
+
+- Night Eyes:
+You can see very well in the night.
+
+- Bat Body:
+You are 80% the size of a normal player.
+
+- Sensitive Eyes:
+If you are exposed to the sun, you will not be able to see.
 
 ___________________________
 
@@ -66,6 +130,7 @@ You can survive fall damage, and levitate for a short peorid of time.
 Swords do 2 more attack damage.
 
 ___________________________
+
 Maid:
 You are the servant of a master you have not found yet, so you are trying to do your best to find that master.
 - Impact:2 
@@ -140,6 +205,7 @@ You health is decresses to 6 hearts.
 If someone attacks you, they or the mob will be struck with lightning.
 
 ___________________________
+
 Mirror: 
 You are the physical traits of other players, but you can never feel like yourself ever again unless…
 - Impact: 3
@@ -229,7 +295,7 @@ Toaster:
 Your are a square like box that can get really hot
 - Impact: 3
 
-Power:
+Powers:
 - Burning Hands:
 If someone attacks you, they or the mob will be set on fire. Its the same if you attack someone else.
 
@@ -247,11 +313,33 @@ You will instaintly expload if you come incontact with any kind of water.
 
 ___________________________
 
+Wasp:
+You are a lage varient of the bee, but you are more agressive, and you dont make the best honey.
+- Impact: 3
+
+Powers:
+- Bee Wings:
+You can fly, but you fall very slowly.
+
+- Heart of Poison:
+You have 2 less hearts.
+
+- Wasp Stinger:
+When you hit someone you will give them Poison two.
+
+- Bee Body:
+You are 70% the size of a normal player.
+
+- Sensitive Wings:
+You will start to take damage over time, if you are in water.
+
+___________________________
+
 Yoshi: 
 A dino like animal that can lay eggs, throw them , and protect it self useing an egg.
 - Impact: 2
 
-Power:
+Powers:
 - Soft Skin:
 Arrows do twice as much damage.
 
